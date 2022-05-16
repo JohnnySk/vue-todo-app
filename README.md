@@ -1,4 +1,6 @@
-# vue-theory
+# vue-todo-app
+
+Example for Vue.js and Vues based ToDo app
 
 ## Project setup
 ```
